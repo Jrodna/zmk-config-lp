@@ -1,0 +1,6 @@
+if SHIELD_ORTHOCODE_LP
+
+config ZMK_ORTHOCODE_LP
+  default "Orthocode Low Profile"
+
+endif
