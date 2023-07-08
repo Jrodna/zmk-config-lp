@@ -46,7 +46,6 @@
         &kp LEFT_SHIFT &kp Z &kp X &kp C &kp V &kp B &kp N &kp M &kp COMMA &kp DOT &kp SLASH &kp UP
         &kp LEFT_CONTROL &kp LGUI &kp LALT &mo 1 &kp RSHIFT &kp ENTER &kp BACKSPACE &shift_enter &mo 1 &kp RGUI &kp RCTRL &kp LEFT &kp DOWN &kp RIGHT
       >;  
-      qwertyuiop\
     };
 
     layer_1 {
