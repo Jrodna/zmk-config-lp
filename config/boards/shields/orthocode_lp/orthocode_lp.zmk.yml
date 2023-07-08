@@ -1,0 +1,8 @@
+file_format: "1"
+id: orthocode_lp
+name: Orthocode
+type: shield
+url: https://github.com/jrodna/orthocode/
+requires: [nice_nano_v2]
+features:
+  - keys
