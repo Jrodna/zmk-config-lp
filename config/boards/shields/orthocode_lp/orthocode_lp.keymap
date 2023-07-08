@@ -55,7 +55,7 @@
         &trans &trans &trans &trans &trans &trans &trans &trans &kp PLUS &kp LBKT &kp RBKT &trans &trans &trans
                &trans &trans &trans &trans &trans &trans &kp MINUS &kp EQUAL &kp LPAR &kp RPAR &trans &kp F18
                &trans &trans &trans &trans &trans &trans &trans &kp MINUS &trans &trans &trans &trans &kp F19 &trans
-      >
-    }
+      >;
+    };
   };
 };
