@@ -40,7 +40,7 @@
       #binding-cells = <0>;
       bindings = <&kp ESC>, <&kp TILDE>;
       mods = <(MOD_LSFT|MOD_RSFT)>;
-    }
+    };
   };
 
   keymap {
